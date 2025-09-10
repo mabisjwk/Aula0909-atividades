@@ -1,0 +1,48 @@
+.bloco-preto {
+    display: flex;
+    flex-direction: column;
+    background: #111;
+    padding: 15px;
+    width: 450px;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+.amarelo {
+    color: #febe01;
+}
+
+h2{
+    color: white;
+    font-family: Arial;
+    margin: 0;
+    padding: 10px;
+}
+
+p {
+    color: #b2b2b2;
+    font-family: Arial;
+    margin: 0;
+    padding: 10px;
+}
+
+button {
+    background-color: #febe01;
+    border-radius: 4px;
+    padding: 10px;
+    width: 130px;
+    margin: 10px;
+}
+
+a {
+    font-family: Arial;
+    color: #332200;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.centro {
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
